@@ -18,6 +18,7 @@ The AT command firmware allows for rapid integration by providing:
 - Easy integration with resource-constrained host platforms
 - Easy-to-parse command-response protocols
 - Customized, user-defined AT commands
+- 
 
 # Resources
 - There are several guides for esp-at developers and users. These guides can be rendered in a number of formats, like HTML and PDF.  
